@@ -3,7 +3,12 @@ using MelonLoader;
 using BTD_Mod_Helper;
 using DartMonkey2;
 
-[assembly: MelonInfo(typeof(DartMonkey2.DartMonkey2), ModHelperData.Name, ModHelperData.Version, ModHelperData.RepoOwner)]
+[assembly: MelonInfo(
+    typeof(DartMonkey2.DartMonkey2),
+    ModHelperData.Name,
+    ModHelperData.Version,
+    ModHelperData.RepoOwner)]
+
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6-Epic")]
 
