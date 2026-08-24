@@ -23,6 +23,9 @@ public class DartMonkey2Tower : ModTower
 
     public override string Portrait => "DartMonkey-Icon";
 
-    public override string Description =>
-        "A second Dart Monkey.";
+    public override string Description => "A second Dart Monkey.";
+
+    public override void ModifyBaseTowerModel(TowerModel towerModel)
+    {
+    }
 }
