@@ -7,8 +7,10 @@ DartMonkey2
 </h1>
 
 [![total downloads](https://img.shields.io/github/downloads/Marrrrrrki/dartmonkey2-2/total 'total downloads for API')](https://github.com/Marrrrrrki/dartmoneky2-2/releases)
+[![total issues](https://img.shields.io/github/issues/Marrrrrrki/dartmonkey2-2 'total issues for API')](https://github.com/Marrrrrki/dartmonkey2-2/issues)
+[![code size](https://img.shields.io/github/stars/Marrrrrrki/dartmonkey2-2 'total stars for API')](https://github.com/Marrrrrrki/dartmonkey2-2/stargazers)
 
-            This mod isn't finished yet, so please don't download it.
+            This mod isn't finished yet, so please hold off on downloading it.
 
 For your mod, remember to add the GitHub topic "btd6-mod"
 
