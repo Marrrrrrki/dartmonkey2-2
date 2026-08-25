@@ -6,7 +6,9 @@
 DartMonkey2
 </h1>
 
-            Uh, this mod is not finished yet, so don't download, guys.
+[![total downloads](https://img.shields.io/github/downloads/Marrrrrrki/dartmonkey2-2/total 'total downloads for API')](https://github.com/Marrrrrrki/dartmoneky2-2/releases)
+
+            This mod isn't finished yet, so please don't download it.
 
 For your mod, remember to add the GitHub topic "btd6-mod"
 
