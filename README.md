@@ -16,9 +16,4 @@ DartMonkey2
 
             This mod isn't finished yet, so please hold off on downloading it.
 
-For your mod, remember to add the GitHub topic "btd6-mod"
-
-Features a GitHub Actions setup to build the mod whenever commits are pushed automatically
-and publish a release when you push a tag (using LATEST.md as the body).
-
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
