@@ -5,7 +5,7 @@
 </a>
 Marrrrrrki's Mods
     
-[![total downloads](https://img.shields.io/github/downloads/Marrrrrrki/dartmonkey2-2/total 'total downloads for API')](https://github.com/Marrrrrrki/dartmoneky2-2/releases)
+[![total downloads](https://img.shields.io/github/downloads/Marrrrrrki/dartmonkey2-2/total 'total downloads for API')](https://github.com/Marrrrrrki/dartmonkey2-2/releases)
 [![total issues](https://img.shields.io/github/issues/Marrrrrrki/dartmonkey2-2 'total issues for API')](https://github.com/Marrrrrki/dartmonkey2-2/issues)
 [![code size](https://img.shields.io/github/stars/Marrrrrrki/dartmonkey2-2 'total stars for API')](https://github.com/Marrrrrrki/dartmonkey2-2/stargazers)
 [![latest release](https://img.shields.io/github/v/tag/Marrrrrrki/dartmonkey2-2 'latest release for API')](https://github.com/Marrrrrrki/dartmonkey2-2/releases/latest)
